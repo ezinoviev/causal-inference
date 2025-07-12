@@ -47,7 +47,7 @@ Rather than delivering an exhaustive overview of Data Science or Decision Intell
 
 This series features 20 modular articles — each diving into a specific Decision Intelligence or Causal Inference technique.
 
-1. **A Motivating Example** 📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/)  💻 [View Code on GitHub](https://github.com/your-repo-path/a-motivating-example)
+1. **A Motivating Example**   💻 [View Code on GitHub](https://github.com/ezinoviev/causal-inference/blob/6b953aa8e8ffe0453eb3baa983942dfa961ac394/1.%20A%20Motivating%20Example.ipynb) 📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/)
     
 2. **The Analytics Revolution**  
 3. **Decision Intelligence Manifesto**  
