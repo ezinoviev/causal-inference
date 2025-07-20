@@ -47,7 +47,7 @@ Rather than delivering an exhaustive overview of Data Science or Decision Intell
 
 This series features modular articles — each diving into a specific Decision Intelligence or Causal Inference technique.
 
-1. **A Motivating Example**   💻 [View Code on GitHub](https://github.com/ezinoviev/causal-inference/blob/6b953aa8e8ffe0453eb3baa983942dfa961ac394/1.%20A%20Motivating%20Example.ipynb) 📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
+1. **A Motivating Example**   💻 [View Code on GitHub](https://github.com/ezinoviev/causal-inference/blob/6b953aa8e8ffe0453eb3baa983942dfa961ac394/1.%20A%20Motivating%20Example.ipynb)  💻 [Run Code on Colab](https://colab.research.google.com/drive/1YwhyWnVUAynNFk6u1YcIoimKIygUDa-H?usp=sharing) 📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
 2. **The Revolution in Analytics**  📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
 3. **Decision Intelligence Manifesto**  📄 [Read on LinkedIn](https://www.linkedin.com/in/your-link-here/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
 4. _Directed Acyclic Graph_ *(Coming soon)*  
