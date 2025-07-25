@@ -61,7 +61,7 @@ This series features modular articles — each diving into a specific Decision I
 13. _Applying Causal Inference for Feature Selection_ *(Coming soon)*  
 14. _Controlling for Unknown Confounders_ *(Coming soon)*  
 15. _Relaxing Difference-in-Differences (DiD) Assumptions_ *(Coming soon)*  
-16. _Which Causal Effect to Choose?_ *(Coming soon)*  
+16. _Choosing the Right Causal Effect_ *(Coming soon)*  
 17. _Answering “What-If” Questions_ *(Coming soon)*  
 18. _Quantifying Causal Influence_ *(Coming soon)*  
 19. _Heterogeneous Effects, Segmentation and Targeting_ *(Coming soon)*  
