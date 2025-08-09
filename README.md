@@ -47,11 +47,11 @@ Rather than delivering an exhaustive overview of Data Science or Decision Intell
 
 This series features modular articles — each diving into a specific Decision Intelligence or Causal Inference technique.
 
-1. **A Motivating Example** <br> 📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-1-example-eugene-zinoviev-ehycc/)) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/) <br> 💻 [View Code on GitHub](https://github.com/ezinoviev/causal-inference/blob/6b953aa8e8ffe0453eb3baa983942dfa961ac394/1.%20A%20Motivating%20Example.ipynb)  💻 [Run Code on Colab](https://colab.research.google.com/drive/1YwhyWnVUAynNFk6u1YcIoimKIygUDa-H?usp=sharing) 
+1. **A Motivating Example** <br> 📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-1-example-eugene-zinoviev-ehycc/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/) <br> 💻 [View Code on GitHub](https://github.com/ezinoviev/causal-inference/blob/6b953aa8e8ffe0453eb3baa983942dfa961ac394/1.%20A%20Motivating%20Example.ipynb)  💻 [Run Code on Colab](https://colab.research.google.com/drive/1YwhyWnVUAynNFk6u1YcIoimKIygUDa-H?usp=sharing) 
 2. **The Revolution in Analytics** <br>
-📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-2-eugene-zinoviev-wkbnc/)) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
+📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-2-eugene-zinoviev-wkbnc/) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
 3. **Decision Intelligence Manifesto** <br>
-📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-3-eugene-zinoviev-ypcxc)) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
+📄 [Read on LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-3-eugene-zinoviev-ypcxc) 📄 [Read on Medium](https://www.linkedin.com/in/your-link-here/)
 4. _Directed Acyclic Graph_ *(Coming soon)*
 5. _The Business Case and Running Example_ *(Coming soon)*
 6. _Testing and Experimentation_ *(Coming soon)*  
