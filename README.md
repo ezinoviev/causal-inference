@@ -52,7 +52,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-2-eugene-zinoviev-wkbnc/) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-2-the-revolution-in-analytics-9123d7e614fc)
 3. **Decision Intelligence Manifesto** <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-3-eugene-zinoviev-ypcxc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-3-decision-intelligence-manifesto-7703b1297aaf)
-4. _Directed Acyclic Graph_ *(Coming soon)*
+4. **Directed Acyclic Graph** <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-4-acyclic-eugene-zinoviev-ekwtc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-4-directed-acyclic-graph-52235071e0fd)
 5. _The Business Case and Running Example_ *(Coming soon)*
 6. _Testing and Experimentation_ *(Coming soon)*  
 7. _Causal Discovery and DAG Falsification_ *(Coming soon)*  
