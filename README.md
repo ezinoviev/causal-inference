@@ -54,8 +54,10 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-3-eugene-zinoviev-ypcxc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-3-decision-intelligence-manifesto-7703b1297aaf)
 4. **Directed Acyclic Graph** <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-4-acyclic-eugene-zinoviev-ekwtc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-4-directed-acyclic-graph-52235071e0fd)
-5. _The Business Case and Running Example_ *(Coming soon)*
-6. _Testing and Experimentation_ *(Coming soon)*  
+5. **The Business Case and Running Example** <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-5-case-running-zinoviev-pdgbc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-5-the-business-case-and-running-example-7109210ee06c) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/5.%20Running%20example.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1amxAfNrWJoTzanh8jNRyWSZc590Y4cJH?usp=sharing) 
+6. **Testing and Experimentation**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-6-testing-eugene-zinoviev-rqwvc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-6-testing-and-experimentation-3e1432649a32) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/6.%20Testing%20and%20Experimentation.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1j9aHdss6rjs_iAKP9J3vC5yliU_XNONw?usp=sharing) 
 7. _Causal Discovery and DAG Falsification_ *(Coming soon)*  
 8. _Python Libraries for Causal Inference_ *(Coming soon)*  
 9. _DoWhy Library as a Causal Inference Framework_ *(Coming soon)*  
