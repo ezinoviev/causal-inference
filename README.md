@@ -58,7 +58,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-5-case-running-zinoviev-pdgbc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-5-the-business-case-and-running-example-7109210ee06c) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/5.%20Running%20example.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1amxAfNrWJoTzanh8jNRyWSZc590Y4cJH?usp=sharing) 
 6. **Testing and Experimentation**  <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-6-testing-eugene-zinoviev-rqwvc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-6-testing-and-experimentation-3e1432649a32) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/6.%20Testing%20and%20Experimentation.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1j9aHdss6rjs_iAKP9J3vC5yliU_XNONw?usp=sharing) 
-7. _Causal Discovery and DAG Falsification_ *(Coming soon)*  
+7. **Causal Discovery and DAG Falsification**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-7-dag-eugene-zinoviev-bnfqc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-7-causal-discovery-and-dag-falsification-c11cd964a3b5) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/7.%20DAG%20discovery%20and%20falsification%20simplified.ipynb) 
 8. _Python Libraries for Causal Inference_ *(Coming soon)*  
 9. _DoWhy Library as a Causal Inference Framework_ *(Coming soon)*  
 10. _Applying Causal Inference for Feature Selection_ *(Coming soon)*  
