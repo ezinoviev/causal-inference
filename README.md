@@ -60,8 +60,10 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-6-testing-eugene-zinoviev-rqwvc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-6-testing-and-experimentation-3e1432649a32) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/6.%20Testing%20and%20Experimentation.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1j9aHdss6rjs_iAKP9J3vC5yliU_XNONw?usp=sharing) 
 7. **Causal Discovery and DAG Falsification**  <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-7-dag-eugene-zinoviev-bnfqc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-7-causal-discovery-and-dag-falsification-c11cd964a3b5) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/7.%20DAG%20discovery%20and%20falsification%20simplified.ipynb) 
-8. _Python Libraries for Causal Inference_ *(Coming soon)*  
-9. _DoWhy Library as a Causal Inference Framework_ *(Coming soon)*  
+8. **Python Libraries for Causal Inference**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-8-python-eugene-zinoviev-c570c) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-8-python-libraries-for-causal-inference-a0b9ddf080f0)
+9. **DoWhy Library as a Causal Inference Framework**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-9-dowhy-library-zinoviev-snd8c) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-9-dowhy-library-as-a-causal-inference-framework-1f66c2bc4558) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/9.%20DoWhy%20and%20GCM.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1sUDc7uTta-XX6ToMoT2Ysem0d52rEcaO?usp=sharing)   
 10. _Applying Causal Inference for Feature Selection_ *(Coming soon)*  
 11. _Controlling for Unknown Confounders_ *(Coming soon)*  
 12. _Relaxing Difference-in-Differences (DiD) Assumptions_ *(Coming soon)*  
