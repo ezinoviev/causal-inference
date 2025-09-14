@@ -64,7 +64,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-8-python-eugene-zinoviev-c570c) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-8-python-libraries-for-causal-inference-a0b9ddf080f0)
 9. **DoWhy Library as a Causal Inference Framework**  <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-9-dowhy-library-zinoviev-snd8c) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-9-dowhy-library-as-a-causal-inference-framework-1f66c2bc4558) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/9.%20DoWhy%20and%20GCM.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1sUDc7uTta-XX6ToMoT2Ysem0d52rEcaO?usp=sharing)   
-10. _Applying Causal Inference for Feature Selection_ *(Coming soon)*  
+10. **Applying Causal Inference for Feature Selection**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-10-feature-zinoviev-naiqc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-10-applying-causal-inference-for-feature-49503d25bee2) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/10.%20Applying%20causal%20inference%20for%20feature%20selection.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/14Gz9tZ7f605vEZSB98xgtFcaqBxHgYd0?usp=sharing)  
 11. _Controlling for Unknown Confounders_ *(Coming soon)*  
 12. _Relaxing Difference-in-Differences (DiD) Assumptions_ *(Coming soon)*  
 13. _Choosing the Right Causal Effect_ *(Coming soon)*  
