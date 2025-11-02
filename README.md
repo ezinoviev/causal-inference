@@ -78,7 +78,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-15-eugene-zinoviev-fsfkc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-15-quantifying-causal-influence-92fbe78f6339) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/15.%20Quantifying%20causal%20influence.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1dqeXJbVG-98B6_NzpjTNDaqwIPWrFkWp?usp=sharing) 
 16. **Heterogeneous Effects, Segmentation and Targeting**   <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-16-effects-zinoviev-hap1c) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-16-heterogeneous-effects-segmentation-and-ea075c447058) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/16.%20Heterogeneous%20effects.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1F__MIuolZYnzmu6LarRS-94LOF4Fw5rY?usp=sharing)
-17. _Macroeconomics for Decision Intelligence_ *(Coming soon)*   
+17. **Macroeconomics for Decision Intelligence**   <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-17-eugene-zinoviev-d18sc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-17-macroeconomics-for-decision-intelligence-c23a0b358bc4) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/17.%20Macro.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1y6Ng7LjGoVu-IAzMHi7MoFxVlf06egnJ?usp=sharing)
 18. _Industry Analysis_ *(Coming soon)* 
 19. _Building a Holistic Hierarchical Model_  *(Coming soon)*  
 20. _Simulation and Scenario Modeling_ *(Coming soon)*  
