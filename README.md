@@ -82,7 +82,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-17-eugene-zinoviev-d18sc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-17-macroeconomics-for-decision-intelligence-c23a0b358bc4) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/17.%20Macro.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1y6Ng7LjGoVu-IAzMHi7MoFxVlf06egnJ?usp=sharing)
 18. **Industry Analysis** <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-18-eugene-zinoviev-na1bc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-18-industry-analysis-57a1961f9db1) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/18.%20Industry%20analysis.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1i3TXjEzKSlBhy7eVkOVBUe6kxYyGFBBc?usp=sharing) 
-19. _Building a Holistic Hierarchical Model_  *(Coming soon)*  
+19. **Building a Holistic Hierarchical Model**  <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-19-model-eugene-zinoviev-wc4oc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-19-building-a-holistic-hierarchical-model-bed44bccdc78) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/19.%20Holistic%20model.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1O4FMfJ0FP42Q1RLjeSlWZvGKa59goE-Q?usp=sharing) 
 20. _Simulation and Scenario Modeling_ *(Coming soon)*  
 21. _Decision Intelligence Life Cycle_ *(Coming soon)* 
 
