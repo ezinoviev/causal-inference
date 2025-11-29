@@ -86,7 +86,8 @@ This series features modular articles — each diving into a specific Decision I
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-19-model-eugene-zinoviev-wc4oc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-19-building-a-holistic-hierarchical-model-bed44bccdc78) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/19.%20Holistic%20model.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1O4FMfJ0FP42Q1RLjeSlWZvGKa59goE-Q?usp=sharing) 
 20. **Simulation and Scenario Modeling**  <br>
 📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-20-eugene-zinoviev-4cdbc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-20-simulation-and-scenario-modeling-dda7e3180a75) <br> 💻 [View on GitHub](https://github.com/ezinoviev/causal-inference/blob/main/20.%20Simulation.ipynb)  💻 [Execute in Colab](https://colab.research.google.com/drive/1FVZWzOZS_onMiFxUD8aeWkrYG0vsA_mT?usp=sharing) 
-21. _Decision Intelligence Life Cycle_ *(Coming soon)* 
+21. **Decision Intelligence Life Cycle** <br>
+📄 [Read on LinkedIn](https://www.linkedin.com/pulse/causal-inference-decision-intelligence-part-21-life-cycle-zinoviev-yvtrc) 📄 [Read on Medium](https://medium.com/@ievgen.zinoviev/causal-inference-in-decision-intelligence-part-21-decision-intelligence-life-cycle-81fca50f1e08) 
 
 ---
 
